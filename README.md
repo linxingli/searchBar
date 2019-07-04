@@ -1,7 +1,6 @@
+##一个源自react官网的入门demo
 ```
-## 一个源自react官网的入门demo
-
 描述：商品搜索列表，支持模糊搜索及条件过滤
 
-https://react.docschina.org/docs/thinking-in-react.html
+来自：https://react.docschina.org/docs/thinking-in-react.html
 ```
